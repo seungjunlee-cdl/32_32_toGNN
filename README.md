@@ -10,3 +10,9 @@ Von Mises stress, strain energy density, volume fraction on 1st iteration of top
 ![mesh2graph](https://user-images.githubusercontent.com/56711947/149689229-18ff40ba-4aa1-4daf-8696-10849a0418b6.jpg)
 
 ### Network Architecture
+6 graph convolution layer with batch normalization of hidden node features  
+![model](https://user-images.githubusercontent.com/56711947/149693233-51c4cf81-4428-4266-9202-fbc5d945ce64.jpg)
+
+### Results
+Target and prediction visualization  
+![res](https://user-images.githubusercontent.com/56711947/149691141-f954ec7e-0622-42f2-8160-981003d1ab84.jpg)
